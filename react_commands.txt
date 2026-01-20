@@ -1,0 +1,37 @@
+Basic React Commands
+
+Create React App (Vite recommended now)
+
+npm create vite@latest 
+
+Install dependencies
+
+npm install
+
+Start development server
+
+npm run dev
+
+Stop server
+
+(press) Ctrl + C
+
+Build for production
+
+npm run build
+
+Preview production build
+
+npm run preview
+
+Install a package
+
+npm install package-name
+
+Uninstall a package
+
+npm uninstall package-name
+
+Run tests (if configured)
+
+npm test
